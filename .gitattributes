@@ -1,0 +1,7 @@
+*.yaml linguist-detectable=false
+
+*.jpg binary
+*.html linguist-vendored
+package-lock.json linguist-generated
+*.min.js linguist-generated
+src/*.ts linguist-detectable
